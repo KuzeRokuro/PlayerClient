@@ -19,7 +19,7 @@
           <td>{{ tournament.cardgame }}</td>
           <td>
             <button class="btn-action" @click="ViewMatch(tournament.id)">
-              See Ranking
+              View
             </button>
           </td>
         </tr>
